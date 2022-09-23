@@ -1,2 +1,2 @@
 # Parallel-practice
-Practice parallelizing C++ programs
+Practice parallelizing C/C++ programs
